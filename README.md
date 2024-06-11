@@ -9,8 +9,9 @@ This script counts the number of players in each job on an ESX-based FiveM serve
 1. Copy the script file into the resources directory of your FiveM server.
 2. Add the script to your `server.cfg` file by adding the following line:
 
+```lua
     ensure ActiveJobs
-
+```
     
 3. Restart your FiveM server.
 
