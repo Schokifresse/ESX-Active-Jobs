@@ -75,7 +75,8 @@ end, 'police') -- Replace 'police' with the desired job
 
 ```
 
-### Configuration
-Enable Debug Mode
+## Configuration
+
+### Enable Debug Mode
 To enable debug mode, set Config.Debug to true
 When debug mode is enabled, the number of players in each job will be printed to the console every 10 seconds.
